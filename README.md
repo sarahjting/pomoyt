@@ -2,6 +2,8 @@
 
 Just making a little pomodoro thing for myself & also practicing Composition API.
 
+<p align="center"><img src="https://user-images.githubusercontent.com/58196030/174631360-4f830852-df31-4cf5-a0ad-27e98b4c3e00.png"></p>
+
 ## Todo
 - Make it cute
 - Add alarms
